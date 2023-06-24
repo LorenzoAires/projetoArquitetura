@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    font-family: 'inter';
+}
+#titulototal{
+    background-color: #303030;
+    color: #f9f9f9;
+    text-align: justify;
+}
+#titulo{
+    font-size: 60px;
+    margin-left: 62px;
+    padding-top: 206px;
+}
+#textosuperior{
+font-size: 20px;
+margin-left: 62px;
+margin-top: 0;
+padding-bottom: 149px;
+
+}
+#segundacaixa{
+    background-color: #f9f9f9;
+    color: black;
+    display: grid;
+    grid-auto-flow: column;
+    font-size: 25px;
+    padding-top: 96px;
+    padding-bottom: 66.8px;
+}
+#textocaixadois{
+    margin-left: 171px;
+}
+#boximagem{
+    color: black;
+    margin-bottom: 300px;
+
+}
+#imagem{
+    margin-left: 750px;
+    margin-right: 86px;
+    width: 510px;
+    height: 605px;
+    padding-top: 25px;
+    padding-bottom: 80px;
+   
+}
+#textoimagem{
+    margin-left: 87px;
+    margin-top: -30%;
+
+}
+#terceiraparte{
+    background-color: #303030;
+    color: white;
+    text-align: center;
+    grid-auto-flow: line;
+
+}
+#tituloterceiraparte{
+    font-size: 22px;    
+    padding-top: 87px;
+    margin: 20px;
+}
+#formulario{
+    font-size: 30px;
+}
+button{
+    background-color: #C07212;
+    color: white;
+    margin-bottom: 87px;
+    border: 0px;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px; 
+    cursor: pointer;
+    
+}
+input{
+    width: 300px;
+    height: 30px;
+    border: 0px;
+    margin: 15px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+button:hover{
+    transform: translateX(-6px);
+    box-shadow: 0px 15px 20px #4b4a4a;
+    transition-duration: 0.3s;
+}
